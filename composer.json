@@ -1,6 +1,6 @@
 {
-    "name": "omarahmed8k/microMvc",
-    "description": "microMvc",
+    "name": "omarahmed8k/micromvc",
+    "description": "micromvc",
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
