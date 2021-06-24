@@ -1,7 +1,13 @@
 {
+    "name": "omarahmed8k/microMvc",
+    "description": "microMvc",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    },
     "autoload": {
         "psr-4": {
-            "MVC\\" : "app"
+            "MVC\\": "app"
         }
     },
     "require": {
